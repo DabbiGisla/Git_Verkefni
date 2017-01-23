@@ -18,3 +18,5 @@
 	a) git diff 
 	b) git diff --staged 
 	c) git diff commit1 commit2
+
+4. 	Hvað er útgáfustýring (e.version control)? Er system sem heldur uppi breytingum á fælum.
