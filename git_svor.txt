@@ -30,3 +30,5 @@
 8.	Hvenær er sniðugt að nota greinar (branches)?
 
 9.	Hver fann upp GIT? Tom Preston-Werner, Chris Wanstrath og PJ Hyett.
+
+10.	Hvar er GIT helst notað? Í tækniskólanum auðvitað! En annars hjá fólki sem er að vinna í hópum að verkefnum og Git auðveldar þar með vinnuna.
