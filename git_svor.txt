@@ -28,3 +28,5 @@
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Working directory er mappan sem þú ert að vinna í. Staging area er fællinn sem þú ert að vinna í. Repository geymir hlutina sem þú ert að vinna í.
 
 8.	Hvenær er sniðugt að nota greinar (branches)?
+
+9.	Hver fann upp GIT? Tom Preston-Werner, Chris Wanstrath og PJ Hyett.
