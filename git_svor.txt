@@ -6,3 +6,10 @@
 	ls - Sýnir folderina á því svæði sem þú ert á
 	pwd - Sýnir hvar þú ert
 	mkdir - Býrð til nýjan Folder
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - Copýar í nýjan folder
+	git log - Sýnir commit logs
+	git status - Sýnir statusinn á því sem þú ert að vinna á, hvort þú eigir eftir að færa eitthverja fæla á github eða ekki.
+	git diff - Sýnir breytingar milli commits
+	git checkout
