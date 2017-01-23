@@ -1,1 +1,8 @@
 #Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - Færir þig í akveðna skrá t.d cd Vor þá ferðu í möppuna Vor ef 			hún er til
+	cd ~ Færir þig "Heim" 
+	ls - Sýnir folderina á því svæði sem þú ert á
+	pwd - Sýnir hvar þú ert
+	mkdir - Býrð til nýjan Folder
