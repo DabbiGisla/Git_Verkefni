@@ -24,3 +24,5 @@
 5.	Hverjir eru helstu kostir við að nota GIT? Auðvelt að nota það. Til dæmis ef þú ert að vinna í hóp og eruð að gera sameiginlegt verkefni á github þá getur kennarinn séð hver gerði hvað í verkefninu og mögulega gefið einkunn út frá því.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Eins oft og þú þarft, Þegar þú ert að breyta verkefninu þá þarftu að commit-a.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Working directory er mappan sem þú ert að vinna í. Staging area er fællinn sem þú ert að vinna í. Repository geymir hlutina sem þú ert að vinna í.
